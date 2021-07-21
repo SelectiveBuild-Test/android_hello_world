@@ -9,34 +9,4 @@ test build 11
 
 Selective build test - ORG 3
 
-token test
-
-asdasdasd
-
-asdasd
-asd
-
-adasdadasd
-asd
-asd
-asd
-asd[
-
-asd
-aaa
-D
-aa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
-aaa
+AWS_ACCESS_KEY_ID='test-access-key-ID'
